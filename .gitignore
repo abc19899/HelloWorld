@@ -11,3 +11,15 @@
 *.lai
 *.la
 *.a
+
+*.obj
+*.idb
+*.pdb
+*.htm
+*.lib
+*.exe
+*.manifest
+*.res
+*.suo
+*.swp
+
